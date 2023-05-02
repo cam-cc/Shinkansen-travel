@@ -7,7 +7,7 @@ This aim of this project was to predict whether a passenger was satisfied or not
 
 # Dataset
 
-The dataset consists of Travel data and Survey data. Travel data has information related to passengers and attributes related to the Shinkansen train, in which they traveled. The survey data is aggregated data of surveys indicating the post-service experience. The data has been split into two groups and provided in the Dataset folder. The folder contains both train and test data separately. The target variable is Overall_Experience, where 1 represents ‘satisfied’, and 0 represents ‘not satisfied’.
+The dataset consists of Travel data and Survey data. Travel data has information related to passengers and attributes related to the Shinkansen train, in which they traveled. The survey data is aggregated data of surveys indicating the post-service experience. The data has been split into two groups and provided in the Dataset folder. The folder contains both train and test data separately. The target variable is Overall_Experience, where 1 represents ‘<b>satisfied</b>’, and 0 represents ‘<b>not satisfied</b>’.
 
 The datasets were subjected to necessary data cleaning/validation steps as required.
 
@@ -21,7 +21,7 @@ The evaluation metric is the accuracy score, which is the percentage of predicti
 
 # Results
 
-The models AdaBoost with default parameters (ada1) and AdaBoost with a learning rate of 0.1 (ada2) were both able to achieve an accuracy of 95% on the test set.
+The models AdaBoost with default parameters (ada1) and AdaBoost with a learning rate of 0.1 (ada2) were both able to achieve an accuracy of <b>95%</b> on the test set.
 
 # Dependencies
 
