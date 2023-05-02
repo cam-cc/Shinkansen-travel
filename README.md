@@ -1,2 +1,2 @@
 # Shinkansen-travel
-Shinkansen bullet train travel experience Hackathon
+Shinkansen bullet train travel experience
