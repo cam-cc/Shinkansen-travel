@@ -93,8 +93,8 @@ AdaBoostClassifier(
 <table>
   <tr>
     <td align="center">
-      <a href="https://github.com/yourusername">
-        <sub><b>Your Name</b></sub>
+      <a href="https://github.com/cam-cc">
+        <sub><b>Cameron C</b></sub>
       </a>
     </td>
   </tr>
@@ -110,4 +110,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 <p align="center">Made for University Hackathon 2023</p>
-```
