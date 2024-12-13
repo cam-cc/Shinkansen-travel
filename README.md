@@ -15,9 +15,9 @@ An advanced machine learning solution for predicting passenger satisfaction on J
 │   │   ├── travel_data.csv
 │   │   └── survey_data.csv
 │   └── test/
-├── models/
-├── notebooks/
-└── src/
+│   │   ├── travel_data.csv
+│   │   └── survey_data.csv
+├── travel-experience.ipynb (notebook)
 ```
 
 ## Dataset Details
